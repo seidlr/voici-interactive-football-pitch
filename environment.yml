@@ -1,0 +1,11 @@
+name: voici-interactive-football-pitch
+channels:
+  - conda-forge
+dependencies:
+  - bqplot
+  - ipydatagrid
+  - jupyterlab
+  - pip
+  - python=3.8
+  - pip:
+    - voici
